@@ -1,0 +1,2 @@
+# CS151-Proj3-SceneInScene
+In Project 3: Scenes within Scenes, the coder had to place their previous scene into a larger scene, incorporating it so that it would make sense in context. One of the main objectives was to utilize loops to make the code as efficient and neat as possible. Another goal was to use and understand the structure and process of if, else (conditional) statements. This project also allows the coder to understand command line arguments through the sys.argv.
